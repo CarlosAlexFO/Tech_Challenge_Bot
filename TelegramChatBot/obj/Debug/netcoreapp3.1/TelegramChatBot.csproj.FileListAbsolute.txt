@@ -1,0 +1,16 @@
+C:\Users\carlo\OneDrive\Área de Trabalho\ChatBot_AspNet\TelegramChatBot\TelegramChatBot\bin\Debug\netcoreapp3.1\TelegramChatBot.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\ChatBot_AspNet\TelegramChatBot\TelegramChatBot\obj\Debug\netcoreapp3.1\TelegramChatBot.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\ChatBot_AspNet\TelegramChatBot\TelegramChatBot\obj\Debug\netcoreapp3.1\TelegramChatBot.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\ChatBot_AspNet\TelegramChatBot\TelegramChatBot\bin\Debug\netcoreapp3.1\TelegramChatBot.deps.json
+C:\Users\carlo\OneDrive\Área de Trabalho\ChatBot_AspNet\TelegramChatBot\TelegramChatBot\bin\Debug\netcoreapp3.1\TelegramChatBot.runtimeconfig.json
+C:\Users\carlo\OneDrive\Área de Trabalho\ChatBot_AspNet\TelegramChatBot\TelegramChatBot\bin\Debug\netcoreapp3.1\TelegramChatBot.runtimeconfig.dev.json
+C:\Users\carlo\OneDrive\Área de Trabalho\ChatBot_AspNet\TelegramChatBot\TelegramChatBot\bin\Debug\netcoreapp3.1\TelegramChatBot.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\ChatBot_AspNet\TelegramChatBot\TelegramChatBot\bin\Debug\netcoreapp3.1\TelegramChatBot.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\ChatBot_AspNet\TelegramChatBot\TelegramChatBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\ChatBot_AspNet\TelegramChatBot\TelegramChatBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\ChatBot_AspNet\TelegramChatBot\TelegramChatBot\obj\Debug\netcoreapp3.1\TelegramChatBot.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\ChatBot_AspNet\TelegramChatBot\TelegramChatBot\obj\Debug\netcoreapp3.1\TelegramChatBot.csproj.CopyComplete
+C:\Users\carlo\OneDrive\Área de Trabalho\ChatBot_AspNet\TelegramChatBot\TelegramChatBot\obj\Debug\netcoreapp3.1\TelegramChatBot.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\ChatBot_AspNet\TelegramChatBot\TelegramChatBot\obj\Debug\netcoreapp3.1\TelegramChatBot.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\ChatBot_AspNet\TelegramChatBot\TelegramChatBot\obj\Debug\netcoreapp3.1\TelegramChatBot.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\ChatBot_AspNet\TelegramChatBot\TelegramChatBot\obj\Debug\netcoreapp3.1\TelegramChatBot.csprojAssemblyReference.cache
